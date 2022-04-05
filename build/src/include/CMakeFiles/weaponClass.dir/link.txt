@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc libweaponClass.a CMakeFiles/weaponClass.dir/weapon.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe libweaponClass.a

@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src/include",
+					"jsonFile" : "directory-src.include-Debug-b1f4babc0634c207658a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/include",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "WeaponClasses",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "WeaponClasses::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WeaponClasses-Debug-30e95acfe714c511bb20.json",
+					"name" : "WeaponClasses",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "weaponClass::@ab0213e5728b30e3abb0",
+					"jsonFile" : "target-weaponClass-Debug-c84a5057bf6bf6a3b893.json",
+					"name" : "weaponClass",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/GDrive/TSI Training/C++ Videos and stuff/C++ New Examples/Project/Classes/build",
+		"source" : "E:/GDrive/TSI Training/C++ Videos and stuff/C++ New Examples/Project/Classes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

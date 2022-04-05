@@ -1,0 +1,6 @@
+E:/GDrive/TSI Training/C++ Videos and stuff/C++ New Examples/Project/Classes/build/CMakeFiles/WeaponClasses.dir
+E:/GDrive/TSI Training/C++ Videos and stuff/C++ New Examples/Project/Classes/build/CMakeFiles/edit_cache.dir
+E:/GDrive/TSI Training/C++ Videos and stuff/C++ New Examples/Project/Classes/build/CMakeFiles/rebuild_cache.dir
+E:/GDrive/TSI Training/C++ Videos and stuff/C++ New Examples/Project/Classes/build/src/include/CMakeFiles/weaponClass.dir
+E:/GDrive/TSI Training/C++ Videos and stuff/C++ New Examples/Project/Classes/build/src/include/CMakeFiles/edit_cache.dir
+E:/GDrive/TSI Training/C++ Videos and stuff/C++ New Examples/Project/Classes/build/src/include/CMakeFiles/rebuild_cache.dir
